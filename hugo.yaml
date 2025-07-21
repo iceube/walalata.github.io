@@ -1,0 +1,7 @@
+theme: "PaperMod"
+baseURL: "https://example.org/"
+languageCode: "zh-cn"
+title: "My New Hugo Site"
+
+pagination:
+  pagerSize: 5
