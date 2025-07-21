@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blog-build/</loc>
+    <loc>https://iceube.github.io/walalata.pro/blog-build/</loc>
     <lastmod>2025-07-21T22:11:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog-build/my-first-post/</loc>
+    <loc>https://iceube.github.io/walalata.pro/blog-build/my-first-post/</loc>
     <lastmod>2025-07-21T22:11:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://iceube.github.io/walalata.pro/</loc>
     <lastmod>2025-07-21T22:11:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://iceube.github.io/walalata.pro/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://iceube.github.io/walalata.pro/tags/</loc>
   </url>
 </urlset>
