@@ -1,5 +1,7 @@
 theme: "PaperMod"
-baseURL: "https://example.org/"
+baseURL: "https://iceube.github.io/walalata.pro/"
+relativeURLs: true
+canonifyURLs: true
 languageCode: "zh-cn"
 title: "My New Hugo Site"
 
